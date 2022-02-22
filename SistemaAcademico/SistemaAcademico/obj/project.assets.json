@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jacksonwss\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\giova\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
+      "projectUniqueName": "C:\\Users\\giova\\Desktop\\ETEC\\DS\\Atividade 01 Classes e Objetos\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
       "projectName": "SistemaAcademico",
-      "projectPath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
-      "packagesPath": "C:\\Users\\jacksonwss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\obj\\",
+      "projectPath": "C:\\Users\\giova\\Desktop\\ETEC\\DS\\Atividade 01 Classes e Objetos\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
+      "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giova\\Desktop\\ETEC\\DS\\Atividade 01 Classes e Objetos\\SitemaAcademico\\SistemaAcademico\\SistemaAcademico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jacksonwss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

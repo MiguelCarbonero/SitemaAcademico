@@ -14,3 +14,19 @@ C:\Users\jacksonwss\source\repos\SistemaAcademico\SistemaAcademico\obj\Debug\net
 C:\Users\jacksonwss\source\repos\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\ref\SistemaAcademico.dll
 C:\Users\jacksonwss\source\repos\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.pdb
 C:\Users\jacksonwss\source\repos\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.genruntimeconfig.cache
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.AssemblyReference.cache
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.AssemblyInfo.cs
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.dll
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.exe
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.deps.json
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.json
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.runtimeconfig.dev.json
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.dll
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\bin\Debug\net5.0\SistemaAcademico.pdb
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\refint\SistemaAcademico.dll
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\SistemaAcademico.genruntimeconfig.cache
+C:\Users\giova\Desktop\ETEC\DS\Atividade 01 Classes e Objetos\SitemaAcademico\SistemaAcademico\SistemaAcademico\obj\Debug\net5.0\ref\SistemaAcademico.dll

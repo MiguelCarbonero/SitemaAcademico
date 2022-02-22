@@ -11,8 +11,8 @@ namespace SistemaAcademico
             Professor joao = new Professor();
             int x;  
 
-            objAluno.endereco = ruablabla;
-            objAluno.telefone = 99999999;       
+            objAluno.endereco = "ruablabla";
+            objAluno.telefone = "99999999";
             objAluno.cpf = 44328063870;
             objAluno.dataNascimento = DateTime.Parse("25/09/1990");
             joao.cpf = 221323;
